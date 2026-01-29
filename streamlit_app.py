@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Add the folder path to your lab files
-hw1 = st.Page('HW/hw1.py', title='Homework One: incomplete')
+hw1 = st.Page('HW/hw1.py', title='Homework 1: incomplete')
 hw2 = st.Page('HW/hw2.py', title='URL Summarizer with Multiple LLMs')
 
 # Navigation and run
